@@ -1,0 +1,100 @@
+[2016-10-25 23:42:39]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: all_members_are_administrators = True, type = group, id = -177420527, title = Pa san antonio con operativos, 
+MESSAGE = Se salió Tepedino?
+[2016-10-26 00:04:15]:
+FROM: username = smirchad, first_name = Juan, last_name = Ortiz, id = 182201882, 
+CHAT: all_members_are_administrators = True, type = group, id = -177420527, title = Pa san antonio con operativos, 
+MESSAGE = y no veo operativos pss
+[2016-10-26 00:04:30]:
+FROM: username = smirchad, first_name = Juan, last_name = Ortiz, id = 182201882, 
+CHAT: all_members_are_administrators = True, type = group, id = -177420527, title = Pa san antonio con operativos, 
+MESSAGE = ademas ya clave bases jaja
+[2016-10-26 00:26:15]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: all_members_are_administrators = True, type = group, id = -177420527, title = Pa san antonio con operativos, 
+MESSAGE = Cierto, esa es la única materia que compartimos
+[2016-10-26 01:40:18]:
+FROM: username = smirchad, first_name = Juan, last_name = Ortiz, id = 182201882, 
+CHAT: all_members_are_administrators = True, type = group, id = -177420527, title = Pa san antonio con operativos, 
+MESSAGE = mañana suben a la uni?
+[2016-10-26 05:59:25]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: all_members_are_administrators = True, type = group, id = -177420527, title = Pa san antonio con operativos, 
+MESSAGE = Yo no
+[2016-10-26 06:07:06]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = Hey
+[2016-10-26 06:07:50]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = Hi
+[2016-10-26 23:20:22]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = hi
+[2016-10-26 23:22:08]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /help
+[2016-10-26 23:22:43]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /emotionAnalyzer te mandaremos a ti el proyecto porque carlos se va a copiar y sólo lo puede ver cuando tú se lo muestres sin mandárselo
+[2016-10-27 02:43:21]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = Qlq nova?
+[2016-10-27 02:46:00]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = Hi
+[2016-10-27 23:02:59]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: all_members_are_administrators = True, type = group, id = -155410813, title = Bots, 
+MESSAGE = /rm big_ben_clock
+[2016-10-27 23:32:54]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: all_members_are_administrators = True, type = group, id = -177420527, title = Pa san antonio con operativos, 
+MESSAGE = .
+[2016-10-28 00:36:59]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: all_members_are_administrators = True, type = group, id = -155410813, title = Bots, 
+MESSAGE = hi
+[2016-10-28 00:44:55]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: all_members_are_administrators = True, type = group, id = -155410813, title = Bots, 
+MESSAGE = hola
+[2016-10-28 11:53:03]:
+FROM: username = cserradag96, first_name = Carlos, last_name = Serrada, id = 10643384, 
+CHAT: all_members_are_administrators = True, type = group, id = -177420527, title = Pa san antonio con operativos, 
+MESSAGE = Xd
+[2016-10-28 22:33:09]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = Hi
+[2016-11-03 01:15:17]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = hi
+[2016-11-03 01:15:20]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /help
+[2016-11-03 01:15:23]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /fuckoff
+[2016-11-03 01:15:27]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /quote
+[2016-11-03 01:15:29]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /fact
+[2016-11-03 01:15:39]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /ask who is your mom?

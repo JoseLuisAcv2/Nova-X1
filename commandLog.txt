@@ -1,0 +1,32 @@
+[2016-10-26 23:22:08]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /help
+[2016-10-26 23:22:43]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /emotionAnalyzer te mandaremos a ti el proyecto porque carlos se va a copiar y sólo lo puede ver cuando tú se lo muestres sin mandárselo
+[2016-10-27 23:02:59]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: all_members_are_administrators = True, type = group, id = -155410813, title = Bots, 
+MESSAGE = /rm big_ben_clock
+[2016-11-03 01:15:20]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /help
+[2016-11-03 01:15:23]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /fuckoff
+[2016-11-03 01:15:27]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /quote
+[2016-11-03 01:15:29]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /fact
+[2016-11-03 01:15:39]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /ask who is your mom?
