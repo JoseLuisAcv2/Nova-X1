@@ -1,2 +1,2 @@
 # Nova-X1
-Personal assistant with Watson cognitive API
+Telegram bot personal assistant using Watson cognitive API
