@@ -30,3 +30,631 @@ MESSAGE = /fact
 FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
 CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
 MESSAGE = /ask who is your mom?
+[2016-11-18 21:21:24]:
+FROM: username = davideluque, first_name = David, last_name = Cabeza, id = 229336401, 
+CHAT: username = davideluque, first_name = David, last_name = Cabeza, type = private, id = 229336401, 
+MESSAGE = /start
+[2016-11-18 21:21:32]:
+FROM: username = davideluque, first_name = David, last_name = Cabeza, id = 229336401, 
+CHAT: username = davideluque, first_name = David, last_name = Cabeza, type = private, id = 229336401, 
+MESSAGE = /help
+[2016-11-18 21:21:47]:
+FROM: username = davideluque, first_name = David, last_name = Cabeza, id = 229336401, 
+CHAT: username = davideluque, first_name = David, last_name = Cabeza, type = private, id = 229336401, 
+MESSAGE = /ask what is my name?
+[2016-11-18 21:22:52]:
+FROM: username = davideluque, first_name = David, last_name = Cabeza, id = 229336401, 
+CHAT: username = davideluque, first_name = David, last_name = Cabeza, type = private, id = 229336401, 
+MESSAGE = /ask jose
+[2016-11-18 21:22:58]:
+FROM: username = davideluque, first_name = David, last_name = Cabeza, id = 229336401, 
+CHAT: username = davideluque, first_name = David, last_name = Cabeza, type = private, id = 229336401, 
+MESSAGE = /ask donald trump
+[2016-11-18 21:23:18]:
+FROM: username = davideluque, first_name = David, last_name = Cabeza, id = 229336401, 
+CHAT: username = davideluque, first_name = David, last_name = Cabeza, type = private, id = 229336401, 
+MESSAGE = /ask zero divided by zero?
+[2016-11-18 21:23:27]:
+FROM: username = davideluque, first_name = David, last_name = Cabeza, id = 229336401, 
+CHAT: username = davideluque, first_name = David, last_name = Cabeza, type = private, id = 229336401, 
+MESSAGE = /ask 0/0
+[2016-11-18 21:23:36]:
+FROM: username = davideluque, first_name = David, last_name = Cabeza, id = 229336401, 
+CHAT: username = davideluque, first_name = David, last_name = Cabeza, type = private, id = 229336401, 
+MESSAGE = /ask acm?
+[2016-11-18 21:24:00]:
+FROM: username = davideluque, first_name = David, last_name = Cabeza, id = 229336401, 
+CHAT: username = davideluque, first_name = David, last_name = Cabeza, type = private, id = 229336401, 
+MESSAGE = /ask today?
+[2016-11-18 21:24:07]:
+FROM: username = davideluque, first_name = David, last_name = Cabeza, id = 229336401, 
+CHAT: username = davideluque, first_name = David, last_name = Cabeza, type = private, id = 229336401, 
+MESSAGE = /ask what day is today?
+[2016-11-18 21:24:07]:
+FROM: username = davideluque, first_name = David, last_name = Cabeza, id = 229336401, 
+CHAT: username = davideluque, first_name = David, last_name = Cabeza, type = private, id = 229336401, 
+MESSAGE = /ask what day is today?
+[2016-11-18 21:24:15]:
+FROM: username = davideluque, first_name = David, last_name = Cabeza, id = 229336401, 
+CHAT: username = davideluque, first_name = David, last_name = Cabeza, type = private, id = 229336401, 
+MESSAGE = /ask what time is now?
+[2016-11-18 21:24:48]:
+FROM: username = davideluque, first_name = David, last_name = Cabeza, id = 229336401, 
+CHAT: username = davideluque, first_name = David, last_name = Cabeza, type = private, id = 229336401, 
+MESSAGE = /gif jose
+[2016-11-18 21:25:04]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /gif
+[2016-11-18 21:25:09]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /gif hello
+[2016-11-18 21:25:28]:
+FROM: username = davideluque, first_name = David, last_name = Cabeza, id = 229336401, 
+CHAT: username = davideluque, first_name = David, last_name = Cabeza, type = private, id = 229336401, 
+MESSAGE = /fuckoff Jose Acevedo
+[2016-11-18 21:26:17]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /ask sdasd
+[2016-11-18 21:26:23]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /ask dsads
+[2016-11-18 21:57:28]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /help
+[2016-11-18 21:57:35]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /gif hello
+[2016-11-18 21:57:41]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /gif
+[2016-11-18 21:57:54]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /gif fabiola
+[2016-11-18 21:58:06]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /gif jose
+[2016-11-18 21:58:12]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /gif david
+[2016-11-18 21:58:39]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /quote
+[2016-11-18 21:58:44]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /help
+[2016-11-18 21:59:25]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /ask what is math
+[2016-11-23 15:04:08]:
+FROM: username = augustohidalgob, first_name = Augusto, id = 9836990, 
+CHAT: username = augustohidalgob, first_name = Augusto, type = private, id = 9836990, 
+MESSAGE = /start
+[2016-11-23 15:04:17]:
+FROM: username = augustohidalgob, first_name = Augusto, id = 9836990, 
+CHAT: username = augustohidalgob, first_name = Augusto, type = private, id = 9836990, 
+MESSAGE = /help
+[2016-11-23 15:05:33]:
+FROM: username = augustohidalgob, first_name = Augusto, id = 9836990, 
+CHAT: username = augustohidalgob, first_name = Augusto, type = private, id = 9836990, 
+MESSAGE = /fuckoff everybody
+[2016-11-23 15:07:12]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /creator
+[2016-11-23 15:08:22]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /creator
+[2016-11-23 15:22:59]:
+FROM: username = augustohidalgob, first_name = Augusto, id = 9836990, 
+CHAT: username = augustohidalgob, first_name = Augusto, type = private, id = 9836990, 
+MESSAGE = /creator
+[2016-11-23 15:23:39]:
+FROM: username = augustohidalgob, first_name = Augusto, id = 9836990, 
+CHAT: username = augustohidalgob, first_name = Augusto, type = private, id = 9836990, 
+MESSAGE = /yoda gay whoever reads it
+[2017-04-24 18:29:48]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /start
+[2017-04-24 18:30:06]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /help
+[2017-04-24 18:30:43]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /emotionAnalyzer
+[2017-04-24 18:31:13]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /emotionAnalyzer Yuni fuck off now
+[2017-04-24 18:31:33]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /emotionAnalyzer
+[2017-04-24 18:31:59]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /emotionAnalyzer
+[2017-04-24 18:32:49]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /help
+[2017-04-24 18:33:02]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /ask what is the meaning of life
+[2017-04-24 18:34:30]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /ask in what year did the third Reich fall?
+[2017-04-24 18:35:06]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /ask how many bones does the human have
+[2017-04-24 18:35:20]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /ask what day is it
+[2017-04-24 18:35:50]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /ask fuck you
+[2017-04-24 18:36:06]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /ask what is my name
+[2017-04-24 18:37:05]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /help
+[2017-04-24 18:37:38]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /rankText hello my name is Jose. I like apples and some shit. Today is saturday and i want to fuck some chicks (yuni)
+[2017-04-24 18:37:51]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /CodeforcesUpcomingContests
+[2017-04-24 18:38:06]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /fuckoff
+[2017-04-24 18:38:17]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /fuckoff Yuni
+[2017-04-24 18:38:24]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /fuckoff Yuni Jose
+[2017-04-24 18:38:24]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /fuckoff Yuni
+[2017-04-24 18:38:41]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /fuckoff everyone
+[2017-04-24 18:38:53]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /fuckoff hitler
+[2017-04-24 18:38:53]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /fuckoff chavez
+[2017-04-24 18:39:17]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /fuckoff maduro
+[2017-04-24 18:39:22]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /help
+[2017-04-24 18:39:27]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /quote
+[2017-04-24 18:39:43]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /quote movies
+[2017-04-24 18:39:52]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /fact
+[2017-04-24 18:40:01]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /fact
+[2017-04-24 18:40:12]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /gif cat
+[2017-04-24 18:40:21]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /gif porn
+[2017-04-24 18:40:36]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /gif corgy
+[2017-04-24 18:40:43]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /gif corgi
+[2017-04-24 18:40:47]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /gif
+[2017-04-24 18:41:04]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /help
+[2017-04-24 18:41:12]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /yoda Hello i am Yuni
+[2017-04-24 18:41:20]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /yoda fuck that as
+[2017-04-24 18:41:30]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /yoda hi
+[2017-04-24 20:19:02]:
+FROM: username = yuniquintero, first_name = Yuni, last_name = Quintero, id = 141840276, 
+CHAT: username = yuniquintero, first_name = Yuni, last_name = Quintero, type = private, id = 141840276, 
+MESSAGE = /start
+[2017-04-24 20:19:33]:
+FROM: username = yuniquintero, first_name = Yuni, last_name = Quintero, id = 141840276, 
+CHAT: username = yuniquintero, first_name = Yuni, last_name = Quintero, type = private, id = 141840276, 
+MESSAGE = /start
+[2017-04-24 20:19:34]:
+FROM: username = yuniquintero, first_name = Yuni, last_name = Quintero, id = 141840276, 
+CHAT: username = yuniquintero, first_name = Yuni, last_name = Quintero, type = private, id = 141840276, 
+MESSAGE = /start
+[2017-04-24 20:19:34]:
+FROM: username = yuniquintero, first_name = Yuni, last_name = Quintero, id = 141840276, 
+CHAT: username = yuniquintero, first_name = Yuni, last_name = Quintero, type = private, id = 141840276, 
+MESSAGE = /start
+[2017-04-24 20:19:35]:
+FROM: username = yuniquintero, first_name = Yuni, last_name = Quintero, id = 141840276, 
+CHAT: username = yuniquintero, first_name = Yuni, last_name = Quintero, type = private, id = 141840276, 
+MESSAGE = /start
+[2017-04-24 20:19:53]:
+FROM: username = yuniquintero, first_name = Yuni, last_name = Quintero, id = 141840276, 
+CHAT: username = yuniquintero, first_name = Yuni, last_name = Quintero, type = private, id = 141840276, 
+MESSAGE = /fuckoff
+[2017-04-24 20:19:54]:
+FROM: username = yuniquintero, first_name = Yuni, last_name = Quintero, id = 141840276, 
+CHAT: username = yuniquintero, first_name = Yuni, last_name = Quintero, type = private, id = 141840276, 
+MESSAGE = /fuckoff
+[2017-04-24 20:19:55]:
+FROM: username = yuniquintero, first_name = Yuni, last_name = Quintero, id = 141840276, 
+CHAT: username = yuniquintero, first_name = Yuni, last_name = Quintero, type = private, id = 141840276, 
+MESSAGE = /fuckoff
+[2017-04-24 20:19:55]:
+FROM: username = yuniquintero, first_name = Yuni, last_name = Quintero, id = 141840276, 
+CHAT: username = yuniquintero, first_name = Yuni, last_name = Quintero, type = private, id = 141840276, 
+MESSAGE = /fuckoff
+[2017-04-24 20:19:55]:
+FROM: username = yuniquintero, first_name = Yuni, last_name = Quintero, id = 141840276, 
+CHAT: username = yuniquintero, first_name = Yuni, last_name = Quintero, type = private, id = 141840276, 
+MESSAGE = /fuckoff
+[2017-04-24 20:19:56]:
+FROM: username = yuniquintero, first_name = Yuni, last_name = Quintero, id = 141840276, 
+CHAT: username = yuniquintero, first_name = Yuni, last_name = Quintero, type = private, id = 141840276, 
+MESSAGE = /fuckoff
+[2017-04-24 20:20:53]:
+FROM: username = yuniquintero, first_name = Yuni, last_name = Quintero, id = 141840276, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /fuckoff
+[2017-04-24 20:20:59]:
+FROM: username = yuniquintero, first_name = Yuni, last_name = Quintero, id = 141840276, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /help
+[2017-04-24 20:21:08]:
+FROM: username = yuniquintero, first_name = Yuni, last_name = Quintero, id = 141840276, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /yoda i am groot
+[2017-04-24 20:22:15]:
+FROM: username = VeroChacin, first_name = Verónica, last_name = Chacín, id = 150684692, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /yoda javier is a faggot
+[2017-04-24 20:22:19]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /creator
+[2017-04-24 20:22:29]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /theMeaningOfLife
+[2017-04-24 20:22:53]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /mission
+[2017-04-24 20:23:40]:
+FROM: username = VeroChacin, first_name = Verónica, last_name = Chacín, id = 150684692, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /emotionAnalyzer Yuni is really beautiful
+[2017-04-24 20:25:56]:
+FROM: username = TheBlackMagic, first_name = Jose Alejandro, last_name = Silvera, id = 298142699, 
+CHAT: username = TheBlackMagic, first_name = Jose Alejandro, last_name = Silvera, type = private, id = 298142699, 
+MESSAGE = /start
+[2017-04-24 20:25:59]:
+FROM: username = TheBlackMagic, first_name = Jose Alejandro, last_name = Silvera, id = 298142699, 
+CHAT: username = TheBlackMagic, first_name = Jose Alejandro, last_name = Silvera, type = private, id = 298142699, 
+MESSAGE = /help
+[2017-04-24 20:26:07]:
+FROM: username = Diegocentrista, first_name = Diego, last_name = Cudjoe, id = 160623954, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /fact
+[2017-04-24 20:26:57]:
+FROM: username = Diegocentrista, first_name = Diego, last_name = Cudjoe, id = 160623954, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /fact
+[2017-04-24 20:27:26]:
+FROM: username = Rabsbustamante, first_name = Raúl, last_name = Bustamante, id = 46205482, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /gif bukake
+[2017-04-24 20:27:29]:
+FROM: username = TheBlackMagic, first_name = Jose Alejandro, last_name = Silvera, id = 298142699, 
+CHAT: username = TheBlackMagic, first_name = Jose Alejandro, last_name = Silvera, type = private, id = 298142699, 
+MESSAGE = /ask
+[2017-04-24 20:27:36]:
+FROM: username = Diegocentrista, first_name = Diego, last_name = Cudjoe, id = 160623954, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /gif Ragul
+[2017-04-24 20:28:21]:
+FROM: username = VeroChacin, first_name = Verónica, last_name = Chacín, id = 150684692, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /ask when is it going to rain?
+[2017-04-24 20:28:54]:
+FROM: username = VeroChacin, first_name = Verónica, last_name = Chacín, id = 150684692, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /ask what time is it?
+[2017-04-24 20:29:25]:
+FROM: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, id = 113607999, 
+CHAT: username = JoseAcv2, first_name = Jose, last_name = Acevedo🚀, type = private, id = 113607999, 
+MESSAGE = /help
+[2017-04-24 20:30:21]:
+FROM: username = VeroChacin, first_name = Verónica, last_name = Chacín, id = 150684692, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /setvoice@OddcastBot
+[2017-04-24 20:30:42]:
+FROM: username = TheBlackMagic, first_name = Jose Alejandro, last_name = Silvera, id = 298142699, 
+CHAT: all_members_are_administrators = True, type = group, id = -185615056, title = Pasito a pasito🎶, 
+MESSAGE = /echo SAPO
+[2017-04-24 20:30:43]:
+FROM: username = Rabsbustamante, first_name = Raúl, last_name = Bustamante, id = 46205482, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /setvoice Jennifer
+[2017-04-24 20:30:48]:
+FROM: username = VeroChacin, first_name = Verónica, last_name = Chacín, id = 150684692, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /setvoice Carlos
+[2017-04-24 20:30:56]:
+FROM: username = Rabsbustamante, first_name = Raúl, last_name = Bustamante, id = 46205482, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /say nova vs RRR
+[2017-04-24 20:31:37]:
+FROM: username = Diegocentrista, first_name = Diego, last_name = Cudjoe, id = 160623954, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /say camarero descamaronemelo
+[2017-04-24 20:32:43]:
+FROM: username = TheBlackMagic, first_name = Jose Alejandro, last_name = Silvera, id = 298142699, 
+CHAT: all_members_are_administrators = True, type = group, id = -185615056, title = Pasito a pasito🎶, 
+MESSAGE = /fact
+[2017-04-24 20:33:57]:
+FROM: username = Diegocentrista, first_name = Diego, last_name = Cudjoe, id = 160623954, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /fact
+[2017-04-24 20:34:21]:
+FROM: username = TheBlackMagic, first_name = Jose Alejandro, last_name = Silvera, id = 298142699, 
+CHAT: all_members_are_administrators = True, type = group, id = -185615056, title = Pasito a pasito🎶, 
+MESSAGE = /echo aaa no valeee
+[2017-04-24 20:35:12]:
+FROM: username = yuniquintero, first_name = Yuni, last_name = Quintero, id = 141840276, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /echo qjsk
+[2017-04-24 20:35:17]:
+FROM: username = yuniquintero, first_name = Yuni, last_name = Quintero, id = 141840276, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /destroyed
+[2017-04-24 20:35:29]:
+FROM: username = yuniquintero, first_name = Yuni, last_name = Quintero, id = 141840276, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /shrug
+[2017-04-24 20:35:54]:
+FROM: username = Diegocentrista, first_name = Diego, last_name = Cudjoe, id = 160623954, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /echo Mamame el webo Nova
+[2017-04-24 20:36:23]:
+FROM: username = Diegocentrista, first_name = Diego, last_name = Cudjoe, id = 160623954, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /shrug
+[2017-04-24 20:36:27]:
+FROM: username = ClauCollision, first_name = Claudia, id = 156377831, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /fuckoff RRR
+[2017-04-24 20:37:03]:
+FROM: username = Diegocentrista, first_name = Diego, last_name = Cudjoe, id = 160623954, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /echo te la tiras de arrecho? Mamawebo
+[2017-04-24 20:38:07]:
+FROM: username = Diegocentrista, first_name = Diego, last_name = Cudjoe, id = 160623954, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /echo soy un bot, callate la jeta
+[2017-04-24 20:38:34]:
+FROM: username = Diegocentrista, first_name = Diego, last_name = Cudjoe, id = 160623954, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /fuckoff soyunbotMe
+[2017-04-24 20:39:28]:
+FROM: username = yuniquintero, first_name = Yuni, last_name = Quintero, id = 141840276, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /mission
+[2017-04-24 20:39:44]:
+FROM: username = TheBlackMagic, first_name = Jose Alejandro, last_name = Silvera, id = 298142699, 
+CHAT: all_members_are_administrators = True, type = group, id = -185615056, title = Pasito a pasito🎶, 
+MESSAGE = /yoda Todos deben amar a Jose
+[2017-04-24 20:39:59]:
+FROM: username = yuniquintero, first_name = Yuni, last_name = Quintero, id = 141840276, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /fuckoff Diego
+[2017-04-24 20:41:09]:
+FROM: username = Diegocentrista, first_name = Diego, last_name = Cudjoe, id = 160623954, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /echo callate la boca. Gringito del coño
+[2017-04-24 20:42:11]:
+FROM: username = TheBlackMagic, first_name = Jose Alejandro, last_name = Silvera, id = 298142699, 
+CHAT: all_members_are_administrators = True, type = group, id = -185615056, title = Pasito a pasito🎶, 
+MESSAGE = /fuck off
+[2017-04-24 20:42:18]:
+FROM: username = TheBlackMagic, first_name = Jose Alejandro, last_name = Silvera, id = 298142699, 
+CHAT: all_members_are_administrators = True, type = group, id = -185615056, title = Pasito a pasito🎶, 
+MESSAGE = /fuckoff Krys
+[2017-04-24 20:42:25]:
+FROM: username = Diegocentrista, first_name = Diego, last_name = Cudjoe, id = 160623954, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /echo i love you, Nova
+[2017-04-24 20:42:46]:
+FROM: username = Diegocentrista, first_name = Diego, last_name = Cudjoe, id = 160623954, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /fuckoff RRR
+[2017-04-24 20:42:54]:
+FROM: username = yuniquintero, first_name = Yuni, last_name = Quintero, id = 141840276, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /rank
+[2017-04-24 20:42:54]:
+FROM: username = yuniquintero, first_name = Yuni, last_name = Quintero, id = 141840276, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /rankText
+[2017-04-24 20:43:41]:
+FROM: username = yuniquintero, first_name = Yuni, last_name = Quintero, id = 141840276, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /rankText
+[2017-04-24 20:43:53]:
+FROM: username = yuniquintero, first_name = Yuni, last_name = Quintero, id = 141840276, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /help
+[2017-04-24 20:44:24]:
+FROM: username = VeroChacin, first_name = Verónica, last_name = Chacín, id = 150684692, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /rankText Yuni manca
+[2017-04-24 20:44:43]:
+FROM: username = TheBlackMagic, first_name = Jose Alejandro, last_name = Silvera, id = 298142699, 
+CHAT: all_members_are_administrators = True, type = group, id = -185615056, title = Pasito a pasito🎶, 
+MESSAGE = /echo Nova te envidio
+[2017-04-24 20:45:08]:
+FROM: username = Falolaap, first_name = Luis, last_name = Alfaro, id = 153745262, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /fuckoff rrr
+[2017-04-24 20:47:07]:
+FROM: username = TheBlackMagic, first_name = Jose Alejandro, last_name = Silvera, id = 298142699, 
+CHAT: all_members_are_administrators = True, type = group, id = -185615056, title = Pasito a pasito🎶, 
+MESSAGE = /gif threesome
+[2017-04-24 20:47:25]:
+FROM: username = TheBlackMagic, first_name = Jose Alejandro, last_name = Silvera, id = 298142699, 
+CHAT: all_members_are_administrators = True, type = group, id = -185615056, title = Pasito a pasito🎶, 
+MESSAGE = /fuckoff RRR
+[2017-04-24 20:48:10]:
+FROM: username = TheBlackMagic, first_name = Jose Alejandro, last_name = Silvera, id = 298142699, 
+CHAT: all_members_are_administrators = True, type = group, id = -185615056, title = Pasito a pasito🎶, 
+MESSAGE = /yoda I am not agresive
+[2017-04-24 20:58:38]:
+FROM: username = TheBlackMagic, first_name = Jose Alejandro, last_name = Silvera, id = 298142699, 
+CHAT: all_members_are_administrators = True, type = group, id = -185615056, title = Pasito a pasito🎶, 
+MESSAGE = /fact
+[2017-04-24 21:06:18]:
+FROM: username = TheBlackMagic, first_name = Jose Alejandro, last_name = Silvera, id = 298142699, 
+CHAT: username = TheBlackMagic, first_name = Jose Alejandro, last_name = Silvera, type = private, id = 298142699, 
+MESSAGE = /quote movie
+[2017-04-24 21:18:48]:
+FROM: username = TheBlackMagic, first_name = Jose Alejandro, last_name = Silvera, id = 298142699, 
+CHAT: all_members_are_administrators = True, type = group, id = -185615056, title = Pasito a pasito🎶, 
+MESSAGE = /fuckoff Los que ignoran el grupo
+[2017-04-24 22:53:24]:
+FROM: username = TheBlackMagic, first_name = Jose Alejandro, last_name = Silvera, id = 298142699, 
+CHAT: all_members_are_administrators = True, type = group, id = -185615056, title = Pasito a pasito🎶, 
+MESSAGE = /fuckoff Kath
+[2017-04-24 23:18:59]:
+FROM: username = Aogami, first_name = Zeus, last_name = Campisi, id = 145102163, 
+CHAT: username = Aogami, first_name = Zeus, last_name = Campisi, type = private, id = 145102163, 
+MESSAGE = /start
+[2017-04-24 23:19:10]:
+FROM: username = Aogami, first_name = Zeus, last_name = Campisi, id = 145102163, 
+CHAT: username = Aogami, first_name = Zeus, last_name = Campisi, type = private, id = 145102163, 
+MESSAGE = /help
+[2017-04-24 23:20:15]:
+FROM: username = Aogami, first_name = Zeus, last_name = Campisi, id = 145102163, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /ask What is the answer to life, the universe and everything else?
+[2017-04-24 23:21:11]:
+FROM: username = Aogami, first_name = Zeus, last_name = Campisi, id = 145102163, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /ask do you think you're better than RRR?
+[2017-04-24 23:21:40]:
+FROM: username = TheBlackMagic, first_name = Jose Alejandro, last_name = Silvera, id = 298142699, 
+CHAT: all_members_are_administrators = True, type = group, id = -185615056, title = Pasito a pasito🎶, 
+MESSAGE = /ask Why?
+[2017-04-24 23:21:44]:
+FROM: username = VeroChacin, first_name = Verónica, last_name = Chacín, id = 150684692, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /ask what is life
+[2017-04-24 23:21:59]:
+FROM: username = palolagz, first_name = Paola, last_name = López, id = 188025616, 
+CHAT: username = palolagz, first_name = Paola, last_name = López, type = private, id = 188025616, 
+MESSAGE = /start
+[2017-04-24 23:22:33]:
+FROM: username = TheBlackMagic, first_name = Jose Alejandro, last_name = Silvera, id = 298142699, 
+CHAT: all_members_are_administrators = True, type = group, id = -185615056, title = Pasito a pasito🎶, 
+MESSAGE = /Fuckoff Nova
+[2017-04-24 23:22:45]:
+FROM: username = Aogami, first_name = Zeus, last_name = Campisi, id = 145102163, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /ask What is love
+[2017-04-24 23:23:18]:
+FROM: username = palolagz, first_name = Paola, last_name = López, id = 188025616, 
+CHAT: username = palolagz, first_name = Paola, last_name = López, type = private, id = 188025616, 
+MESSAGE = /help
+[2017-04-24 23:23:36]:
+FROM: username = Aogami, first_name = Zeus, last_name = Campisi, id = 145102163, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /fuckoff nova X1
+[2017-04-24 23:23:56]:
+FROM: username = TheBlackMagic, first_name = Jose Alejandro, last_name = Silvera, id = 298142699, 
+CHAT: all_members_are_administrators = True, type = group, id = -185615056, title = Pasito a pasito🎶, 
+MESSAGE = /gif bukkake
+[2017-04-24 23:27:50]:
+FROM: username = TheBlackMagic, first_name = Jose Alejandro, last_name = Silvera, id = 298142699, 
+CHAT: all_members_are_administrators = True, type = group, id = -185615056, title = Pasito a pasito🎶, 
+MESSAGE = /fuckoff Krystal
+[2017-04-24 23:42:45]:
+FROM: username = yuniquintero, first_name = Yuni, last_name = Quintero, id = 141840276, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /fuckoff MUD
+[2017-04-25 00:28:23]:
+FROM: username = eg_1996, first_name = Eduardo, last_name = Gallardo, id = 220689247, 
+CHAT: type = supergroup, id = -1001108381547, title = Malditos "CLÁSICO" Edipos, 
+MESSAGE = /savage
+[2017-04-25 00:37:04]:
+FROM: username = TheBlackMagic, first_name = Jose Alejandro, last_name = Silvera, id = 298142699, 
+CHAT: all_members_are_administrators = True, type = group, id = -185615056, title = Pasito a pasito🎶, 
+MESSAGE = /echo VEEEEEEEEEEEEEEE
