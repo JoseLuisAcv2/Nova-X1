@@ -4,6 +4,10 @@
 
 Nova X1 is a personal assistant Telegram bot. It uses IBM Watson cognitive services and has a wide range of customizable commands.
 
+<div align="center">
+	<img src="screenshots/logo.jpg" width="300" height="300">
+</div>
+
 ## Commands
 
 * /ask: Type a question and Nova will try to answer based on similar Quora posts. Nova is not very accurate but in the end it became very funny those sporadic random answers.
@@ -28,18 +32,16 @@ Besides these commands, Nova is designed to be semi-interactive. By this, it is 
 
 Finally, Nova also sends some random messages during the day to start conversation and comes with some hidden easter egg commands
 
-<div align="center">
-	<img src="screenshots/logo.jpg" width="600" height="350">
+
+
+<div align="center" style="padding-bottom:10px;">
+	<img src="screenshots/1.png" width="400" height="300">
+	<img src="screenshots/2.png" width="400" height="300">
 </div>
 
 <div align="center" style="padding-bottom:10px;">
-	<img src="screenshots/1.png" width="600" height="350">
-	<img src="screenshots/2.png" width="600" height="350">
-</div>
-
-<div align="center" style="padding-bottom:10px;">
-	<img src="screenshots/3.png" width="600" height="350">
-	<img src="screenshots/4.png" width="600" height="350">
+	<img src="screenshots/3.png" width="400" height="300">
+	<img src="screenshots/4.png" width="400" height="300">
 </div>
 
 ## License
