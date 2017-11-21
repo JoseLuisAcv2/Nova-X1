@@ -56,8 +56,8 @@ Finally, Nova also sends some random messages during the day to start conversati
 </div>
 
 <div align="center" style="padding-bottom:10px;">
-	<img src="screenshots/3.png" width="400" height="500">
-	<img src="screenshots/2.png" width="400" height="500">
+	<img src="screenshots/3.png" width="400" height="400">
+	<img src="screenshots/2.png" width="400" height="400">
 </div>
 
 ## License
